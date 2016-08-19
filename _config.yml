@@ -1,0 +1,14 @@
+layout_spectrum: 0.24186315317638218
+typography_spectrum: 0.8027756069786847
+color:
+  brandStrength: 0.9175456734374166
+  lightness: 0.49416103842668235
+  saturation: 0.883023256668821
+  rhythmicContrast: 0.8218311874661595
+  brandColors:
+    - '#FFFFFF'
+    - '#7C0F68'
+    - '#099BAB'
+    - '#FF5000'
+    - '#B97EAE'
+name: darshan.io
